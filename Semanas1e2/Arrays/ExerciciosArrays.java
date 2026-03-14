@@ -1,3 +1,5 @@
+package Semanas1e2.Arrays;
+
 import java.util.Random;
 import java.util.Scanner;
 

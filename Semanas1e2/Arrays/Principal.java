@@ -1,3 +1,5 @@
+package Semanas1e2.Arrays;
+
 public class Principal {
     public static void main(String[] args) {
         // Instanciação do objeto para acessar os métodos 
